@@ -2,4 +2,4 @@
 Phirst 
 
 
-There's nothing here to see
+The GIT hello-world exercise and journey continues.
